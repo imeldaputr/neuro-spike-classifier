@@ -5,7 +5,7 @@ It compares Logistic Regression and Random Forest using scikit-learn.
 
 ## Files
 - `neuro_spike_classifier.ipynb`: Jupyter Notebook with full code and explanation
-- `slides.pdf`: Summary slides for presentation
+- `Neural-Spike-Train-Classification.pdf`: Summary slides for presentation
 - `requirements.txt`: Required packages to run the notebook
 
 ## Author
